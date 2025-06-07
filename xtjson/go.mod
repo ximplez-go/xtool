@@ -1,4 +1,4 @@
-module github.com/ximplez/go/xtool/xtjson
+module github.com/ximplez-go/xtjson
 
 go 1.18
 
