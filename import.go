@@ -1,10 +1,10 @@
 package xtool
 
 import (
-	_ "github.com/ximplez-go/errs"
-	_ "github.com/ximplez-go/xtcrypto"
-	_ "github.com/ximplez-go/xthttpc"
-	_ "github.com/ximplez-go/xtjson"
-	_ "github.com/ximplez-go/xtlo"
-	_ "github.com/ximplez-go/xtset"
+	_ "github.com/ximplez-go/xtool/errs"
+	_ "github.com/ximplez-go/xtool/xtcrypto"
+	_ "github.com/ximplez-go/xtool/xthttpc"
+	_ "github.com/ximplez-go/xtool/xtjson"
+	_ "github.com/ximplez-go/xtool/xtlo"
+	_ "github.com/ximplez-go/xtool/xtset"
 )
