@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ximplez/xtool/xtlo/internal/rand"
+	"github.com/ximplez/go/xtool/xtlo/internal/rand"
 )
 
 type DispatchingStrategy[T any] func(msg T, index uint64, channels []<-chan T) int

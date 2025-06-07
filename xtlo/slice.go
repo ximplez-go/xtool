@@ -3,8 +3,8 @@ package xtlo
 import (
 	"sort"
 
-	"github.com/ximplez/xtool/xtlo/internal/constraints"
-	"github.com/ximplez/xtool/xtlo/mutable"
+	"github.com/ximplez/go/xtool/xtlo/internal/constraints"
+	"github.com/ximplez/go/xtool/xtlo/mutable"
 )
 
 // Filter iterates over elements of collection, returning an array of all elements predicate returns truthy for.

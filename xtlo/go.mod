@@ -1,4 +1,4 @@
-module github.com/ximplez/xtool/xtlo
+module github.com/ximplez/go/xtool/xtlo
 
 go 1.18
 

@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/thoas/go-funk"
-	lop "github.com/ximplez/xtool/xtlo/parallel"
+	lop "github.com/ximplez/go/xtool/xtlo/parallel"
 )
 
 func sliceGenerator(size uint) []int64 {

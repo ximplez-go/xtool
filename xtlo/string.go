@@ -7,7 +7,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/ximplez/xtool/xtlo/internal/rand"
+	"github.com/ximplez/go/xtool/xtlo/internal/rand"
 
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
